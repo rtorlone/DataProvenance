@@ -1,6 +1,5 @@
 # DataProvenance
-Questo repository contiene il codice del progetto di tesi relativo alla data provenance nell'ambito della pre-elaborazione dei dati nella data science: *Capturing and querying fine-grained provenance of preprocessing pipelines in data science*.
-Il codice è scritto in [Python](https://www.python.org/).
+This repository contains the project code related to data provenance in the context of data preprocessing in data science, as described in the paper "*Capturing and querying fine-grained provenance of preprocessing pipelines in data science*", to appear in PVLDB. The code is written in [Python](https://www.python.org/).
 
 ## Organizzazione del repository
 Questo repository è organizzato in due sezioni (cartelle) principali:
